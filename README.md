@@ -7,6 +7,14 @@ Our team of four students came up with a project to analyse and compare kidney t
 
 In our study we compared wait times between people living in Oklahoma and Nationwide. We used bar graphs, boxplots, and chi tests to execute comparisons.
 
+**Questions Asked**
+  - How many people in Oklahoma and in the US need a kidney transplant?
+  - How long are they on the waiting list?
+  - What factors affect wait times?
+  - Do certain ethnicities or sexes have higher needs for kidney transplants?
+  - What is the most common wait time?
+  - Does blood type affect kidney transplant wait time?
+
 **Challenges We Faced:**
 - Data gathering
   
